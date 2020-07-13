@@ -2,7 +2,6 @@
 """
 Created on Wed May 27 16:42:28 2020
 
-@author: Necro
 """
 #Optimizing Warehouse Flows with Q-learning
 
