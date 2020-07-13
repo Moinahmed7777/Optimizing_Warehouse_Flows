@@ -5,7 +5,7 @@ Optimizing the flows inside a warehouse for efficiency using AI,encompassing Q-L
 
 The goal is to build an AI that will always take the shortest path to the top priority location,regardless of which location it starts from, and having the option to pass by another intermediary location, which is in the top 3 priorities.
 
-![image](https://drive.google.com/file/d/14jz-wqtNXw5TnXtUW1Biq8zfYgBQnpPW/view?usp=sharing)
+![qLjpg](https://user-images.githubusercontent.com/33766593/87305612-64ba4680-c4dc-11ea-8049-c36a97a560f9.jpg)
 
 
 In order to build the AI, we need to define the environments.
